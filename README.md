@@ -8,14 +8,18 @@ Learning MERN stack with Data Structure having working experience in the informa
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  
+<!--  Commenting out React and Angular for now...  -->
+<!--    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> -->
+  
 </p>
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experience
 
-### Markdown
+### **DevOps Engineer (Production Support)**
+### Wipro
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on LATAM and NAM production servers live. Deployed applications in testing and production environment. Provided support at the time of patching and major updates in applications of CITI Bank from november 2020 to december 2021 as project in Wipro.
 
 ```markdown
 Syntax highlighted code block
