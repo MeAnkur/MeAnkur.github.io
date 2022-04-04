@@ -1,6 +1,6 @@
 ## Introduction
 
-You can use the [editor on GitHub](https://github.com/MeAnkur/MeAnkur.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Learning MERN stack with Data Structure having working experience in the information technology and services industry as DevOps engineer in CITI Bank project at Wipro. Strong computer science concepts from Bachelor of Computer Applications focused in Computer Science from Chandigarh University.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
