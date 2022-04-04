@@ -21,6 +21,13 @@ Learning MERN stack with Data Structure having working experience in the informa
 
 Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on LATAM and NAM production servers live. Deployed applications in testing and production environment. Provided support at the time of patching and major updates in applications of CITI Bank from november 2020 to december 2021 as project in Wipro.
 
+
+## Education
+
+### **CHANDIGARH UNIVERSITY**
+###  Bachelor of Computer Application (2017- 2020)
+CGPA 7.2
+
 ```markdown
 Syntax highlighted code block
 
