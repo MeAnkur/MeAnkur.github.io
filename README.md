@@ -32,4 +32,4 @@ CGPA 7.2
 ### INTERESTS
 Apart from being a web developer, I play outdoor sports. I like gardening and nature photography.
 
-I enjoy being outdoors, so i go for run everyday. I love listning to different types of music and explore different cultures by meeting with people. When i am inside , I look into new technology over youtube and google.
+I enjoy being outdoors, so i go for run everyday. I love listning to different types of music and explore different cultures by meeting with people. When i am inside , I look into new technology over youtube and google. Sometimes I like talking about sprituality as well.
